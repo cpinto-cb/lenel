@@ -9,7 +9,7 @@ Changes on the right side panel should be reflected in grid.
 Spotlight search at top, will filter rows in grid, a substring in either Access Level Name, Reader Type, or Reader Name is a match.
 
 **UI Mockup**
-![alt text](UI Mockup.png "UI Mockup")
+![alt text](https://github.com/cpinto-cb/lenel/blob/master/docs/Ui%20Mockup.png "UI Mockup")
  
 **Datasets**
 
