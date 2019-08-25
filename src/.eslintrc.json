@@ -1,0 +1,31 @@
+{
+  "extends": "airbnb",
+  "plugins": [
+    "react",
+    "jsx-a11y",
+    "import"
+  ],
+
+  "rules" : {
+    "react/jsx-indent-props": "off",
+    "react/jsx-filename-extension": "warn",
+    "react/jsx-closing-bracket-location": "error",
+    "react/jsx-closing-tag-location": "error",
+    "react/jsx-one-expression-per-line": "error",
+    "react/jsx-indent": "off",
+    "no-tabs" : "off",
+    "indent": "off",
+    "comma-dangle": "off",
+    "max-len": "off",
+    "camelcase": "off",
+    "no-unused-expressions": "off",
+    "no-unused-vars": ["error", { "argsIgnorePattern": "^_" }] ,
+
+    /* TODO these may be important to look into */
+    "react/prefer-stateless-function": 2,
+    "jsx-a11y/click-events-have-key-events": "off",
+    "jsx-a11y/no-noninteractive-element-interactions": "off",
+    "jsx-a11y/no-static-element-interactions": "off",
+    "jsx-a11y/no-noninteractive-tabindex": "off"
+  }
+}

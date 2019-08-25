@@ -1,0 +1,15 @@
+{
+  "id": 0,
+  "typeId": 0,
+  "name": "",
+  "readerType": {
+    "id": 0,
+    "name": ""
+  },
+  "accessLevel": {
+    "id": 0,
+    "name": "",
+    "readerId": 0,
+    "Description": ""
+  }
+}

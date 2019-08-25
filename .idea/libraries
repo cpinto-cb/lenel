@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="libraryTable">
+    <library name="NodeJS" type="javaScript">
+      <properties>
+        <option name="frameworkName" value="Node.js Core Modules" />
+        <sourceFilesUrls>
+          <item url="file://$USER_HOME$/NodeJS" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/NodeJS" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</project>

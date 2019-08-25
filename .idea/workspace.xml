@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a1041be8-cff7-450f-a337-0e754bff1e27" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/$CACHE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/lenel.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/UI Assessment.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/UI Assessment.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/Ui Mockup.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/logo512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/.eslintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.js.orig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Constants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AccessDetails/AccessDetailsCard.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AccessDetails/AccessDetailsContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AccessDetails/AccessDetailsForm.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AccessList/AccessListCard.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AccessList/AccessListContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AccessList/AccessListTable.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AccessList/Search.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AppOverview/AppOverview.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/AppOverview/AppOverviewContainer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/accessLevels.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/readerTypes.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/readers.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/data/selectedReader.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proptypes/accessLevelPropType.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proptypes/accessLevelsPropType.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proptypes/antFormType.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proptypes/readerTypesPropType.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proptypes/readersPropType.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/proptypes/selectedReaderType.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/serviceWorker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/actions/readerSearchFilterActions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/actions/setSelectedReader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/actions/updateAccessLevel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/initialState.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/reducers/accessLevelsReducers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/reducers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/reducers/readerSearchFilterReducers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/reducers/readerTypesReducers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/reducers/readersReducers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/reducers/selectedReaderReducers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils/randomColorRotator.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1Ps59ayVzrKHw7SxGz2ddqJ18EX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/store/reducers" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="options.lastSelected" value="JavaScript.Libraries" />
+    <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/store/reducers" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="npm.npm start">
+    <configuration name="Debug Application" type="JavascriptDebugType" uri="http://localhost:3000">
+      <method v="2" />
+    </configuration>
+    <configuration name="npm start" type="js.build_tools.npm">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1041be8-cff7-450f-a337-0e754bff1e27" name="Default Changelist" comment="" />
+      <created>1566649812442</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566649812442</updated>
+      <workItem from="1566649814529" duration="15617000" />
+      <workItem from="1566667508977" duration="18274000" />
+    </task>
+    <task id="LOCAL-00001" summary="done.">
+      <created>1566757300996</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1566757300996</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="done." />
+    <option name="LAST_COMMIT_MESSAGE" value="done." />
+  </component>
+</project>
